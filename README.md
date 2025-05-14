@@ -1,3 +1,5 @@
+*needs a little debugging*
+
 A C-based implementation of AES-256-CBC encryption and decryption using the Windows CNG (Cryptography API: Next Generation), which keeps it low-level.
 
 This tool supports dynamic key/IV generation and allows encrypting plaintext or decrypting hex-encoded ciphertext via console input.
